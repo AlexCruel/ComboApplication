@@ -1,0 +1,26 @@
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe.config
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\bin\Debug\ServerApplication.pdb
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\obj\Debug\ServerApplication.exe
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\obj\Debug\ServerApplication.pdb
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\bin\Debug\EntityFramework.dll
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\bin\Debug\EntityFramework.xml
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csprojAssemblyReference.cache
+C:\Users\Komp\Desktop\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.CopyComplete
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe.config
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\bin\Debug\ServerApplication.pdb
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\bin\Debug\EntityFramework.dll
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\bin\Debug\EntityFramework.SqlServer.dll
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\bin\Debug\EntityFramework.xml
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\bin\Debug\EntityFramework.SqlServer.xml
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\bin\Debug\ru\EntityFramework.resources.dll
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csprojAssemblyReference.cache
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.CopyComplete
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\obj\Debug\ServerApplication.exe
+F:\Учёба\Курсовые проекты\ComboApplication\ServerApplication\ServerApplication\obj\Debug\ServerApplication.pdb
