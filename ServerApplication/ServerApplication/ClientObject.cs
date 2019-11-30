@@ -37,9 +37,6 @@ namespace ServerApplication
                     string message = response.ToString();
                     Console.WriteLine(message);
 
-                    //
-                    //
-
                     // вход 
                     if (message.StartsWith("LoginTo"))
                     {

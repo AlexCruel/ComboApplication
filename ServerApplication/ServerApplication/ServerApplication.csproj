@@ -55,13 +55,13 @@
     <Compile Include="ClientObject.cs" />
     <Compile Include="Views\Faculty.cs" />
     <Compile Include="Views\Journal.cs" />
-    <Compile Include="LogIn.cs" />
+    <Compile Include="RequestsClient\LogIn.cs" />
     <Compile Include="ModelDB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sysdiagrams.cs" />
     <Compile Include="ModelDB\Users.cs" />
-    <Compile Include="UserSend.cs" />
+    <Compile Include="ModelClient\UserSend.cs" />
     <Compile Include="ModelDB\Группы.cs" />
     <Compile Include="ModelDB\Дисциплины.cs" />
     <Compile Include="ModelDB\Журнал_преподавателя.cs" />
