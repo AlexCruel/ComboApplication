@@ -58,6 +58,8 @@
     <Compile Include="Forms\Auth.Designer.cs">
       <DependentUpon>Auth.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\FacultySend.cs" />
+    <Compile Include="Requests\GetFacultySend.cs" />
     <Compile Include="Requests\LogIn.cs" />
     <Compile Include="Forms\Main.cs">
       <SubType>Form</SubType>
@@ -76,6 +78,9 @@
     </Compile>
     <EmbeddedResource Include="Forms\Auth.resx">
       <DependentUpon>Auth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Faculty.resx">
+      <DependentUpon>Faculty.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Main.resx">
       <DependentUpon>Main.cs</DependentUpon>

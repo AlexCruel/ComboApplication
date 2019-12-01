@@ -20,3 +20,4 @@ F:\Учёба\Курсовые проекты\ComboApplication\ClientApplication
 F:\Учёба\Курсовые проекты\ComboApplication\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
 F:\Учёба\Курсовые проекты\ComboApplication\ClientApplication\ClientApplication\obj\Debug\ClientApplication.exe
 F:\Учёба\Курсовые проекты\ComboApplication\ClientApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+F:\Учёба\Курсовые проекты\ComboApplication\ClientApplication\ClientApplication\obj\Debug\ClientApplication.Faculty.resources

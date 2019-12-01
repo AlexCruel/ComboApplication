@@ -88,7 +88,7 @@ namespace ClientApplication
             return userSend;
         }
 
-        // сериализаци LogIn
+        // сериализация LogIn
         public void DataSerializable()
         {
             XmlSerializer formatter = new XmlSerializer(typeof(LogIn));
